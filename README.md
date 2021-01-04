@@ -15,6 +15,9 @@ $ npm -v
 6.14.6
 $ create-react-app --version
 4.0.1
+
+# Install "create-react-app"
+$ npm install -g create-react-app
 ```
 
 ### 3. make

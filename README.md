@@ -9,6 +9,8 @@ https://github.com/<username>/react-pages
 
 ### 2. Implementation environment
 ```sh
+$ git --version
+git version 2.25.1
 $ node -v
 v12.18.3
 $ npm -v
@@ -18,6 +20,14 @@ $ create-react-app --version
 
 # Install "create-react-app"
 $ npm install -g create-react-app
+
+# OS environment (WSL2)
+$ lsb_release -a
+No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 20.04.1 LTS
+Release:        20.04
+Codename:       focal
 ```
 
 ### 3. make
